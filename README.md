@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on (AutoReleaseTool)[https://github.com/OysteinBruin/AutoReleaseTool]
+- 🔭 I’m currently working on [AutoReleaseTool](https://github.com/OysteinBruin/AutoReleaseTool)
 - 🌱 I’m currently learning WebApi - REST, Angular, TypeScript
 - 📫 How to reach me: oeybru@gmail.com
 
