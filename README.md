@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🔭 I’m currently working on [AutoReleaseTool](https://github.com/OysteinBruin/AutoReleaseTool)
 - 🌱 I’m currently learning WebApi - REST, Angular, TypeScript
